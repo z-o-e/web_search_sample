@@ -12,7 +12,6 @@ import re
 import urllib2
 import sys
 import BaseHTTPServer
-import re
 from xgoogle.search import GoogleSearch, SearchError
 
 
